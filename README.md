@@ -1,4 +1,4 @@
-<a href="https://github.com/CommonAccord/CmA_F_Agt-Form">https://github.com/CommonAccord/CmA_F_Agt-Form</a>
+<a href="https://github.com/CommonAccord/Agt-Form-CmA">https://github.com/CommonAccord/Agt-Form-CmA</a>
 
 Multilingual basic frames for contract agreements.  /FR/, /PL/ and /US/, built on a shared frame of /00/.  
 
